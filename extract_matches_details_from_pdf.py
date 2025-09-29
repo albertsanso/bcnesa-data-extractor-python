@@ -73,6 +73,7 @@ def download_pdf(url):
 def main():
     PDF_URL = "https://www.rtbtt.com/lligues2425/QUA_G3.pdf"
     pdf_path = download_pdf(PDF_URL)
+    print(pdf_path)
     matches = extract_matches(pdf_path)
     for m in matches:
         print(f"{m['date'].strftime('%Y-%m-%d %H:%M')} : {m['home']} vs {m['away']} -> {m['home_score']}-{m['away_score']} (Match ID {m['match_id']})")

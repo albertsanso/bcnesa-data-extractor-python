@@ -8,10 +8,10 @@ from common import resourceurlsdb
 from common import bcnesacommons
 
 def generate_csv_for_season(season):
-    season_urls = dict(resourceurlsdb.RESULTSURLS[season])  # Avoid mutating original
-    season_urls.pop("base_url", None)
-
-    for competition_key, competition_categories in season_urls.items():
+    competitions = resourceurlsdb.get_competitions_keys_for_season(season)
+    for competition_key in competitions:
+        competition = resourceurlsdb.get_competition_for_season_and_key(season, competition_key)
+        competition_categories = competition["categories"]
         for category_key, groups in competition_categories.items():
             gen_csv_for_season_competition_category(groups, season.value, competition_key.value, category_key)
 
@@ -114,12 +114,12 @@ def clean_whitespace(s):
 
 def main():
     generate_csv_for_season(bcnesacommons.Season.T_2024_2025)
-    generate_csv_for_season(bcnesacommons.Season.T_2023_2024)
-    generate_csv_for_season(bcnesacommons.Season.T_2022_2023)
-    generate_csv_for_season(bcnesacommons.Season.T_2021_2022)
-    generate_csv_for_season(bcnesacommons.Season.T_2020_2021)
-    generate_csv_for_season(bcnesacommons.Season.T_2019_2020)
-    generate_csv_for_season(bcnesacommons.Season.T_2018_2019)
+    #generate_csv_for_season(bcnesacommons.Season.T_2023_2024)
+    #generate_csv_for_season(bcnesacommons.Season.T_2022_2023)
+    #generate_csv_for_season(bcnesacommons.Season.T_2021_2022)
+    #generate_csv_for_season(bcnesacommons.Season.T_2020_2021)
+    #generate_csv_for_season(bcnesacommons.Season.T_2019_2020)
+    #generate_csv_for_season(bcnesacommons.Season.T_2018_2019)
 
 if __name__ == "__main__":
     main()

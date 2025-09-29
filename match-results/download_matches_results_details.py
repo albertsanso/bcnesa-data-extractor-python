@@ -185,7 +185,7 @@ def download_for_pdf_url(pdf_url, season):
         category_info_mapped = CATEGORY_MAPPING[category_path]
         mapped_group = category_info_mapped["group"]
         folder = Path(bcnesacommons.RESOURCES_FOLDER) / "matches-results-details/pdf" / str(season.value) / str(category_info_mapped["folder"])
-
+        filename = filename.split(".")[0]+"-g"+mapped_group+"."+filename.split(".")[1]
         try:
             file_path = Path(folder) / filename
             file_path.parent.mkdir(parents=True, exist_ok=True)
@@ -204,6 +204,6 @@ if __name__ == "__main__":
     #download_for_season(bcnesacommons.Season.T_2022_2023)
     #download_for_season(bcnesacommons.Season.T_2021_2022)
     #download_for_season(bcnesacommons.Season.T_2020_2021)
-    #download_for_season(bcnesacommons.Season.T_2019_2020)
+    download_for_season(bcnesacommons.Season.T_2019_2020)
     #download_for_season(bcnesacommons.Season.T_2018_2019)
 
