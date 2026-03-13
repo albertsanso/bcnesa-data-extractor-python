@@ -83,8 +83,8 @@ def extract_matches_details(pdf_path, season, group, jornada, competition_match_
 
                     match_info = {}
 
-                    if "2019-2020\\veterans\\2a\\jornada1-g2.pdf" in str(pdf_path):
-                        pass
+                    #if "2019-2020\\veterans\\2a\\jornada1-g2.pdf" in str(pdf_path):
+                    #    pass
 
                     match_info["teams_info"] = fill_match_teams_info(get_match_teams_header_lines(lines, season))
                     match_info["match_info"] = fill_match_info(get_match_header_line(lines, season), group, jornada, competition_match_days_count, match_info["teams_info"])
@@ -351,7 +351,7 @@ def main():
     #generate_csv_for_season(bcnesacommons.Season.T_2022_2023)
     #generate_csv_for_season(bcnesacommons.Season.T_2021_2022)
     #generate_csv_for_season(bcnesacommons.Season.T_2020_2021)
-    generate_csv_for_season(bcnesacommons.Season.T_2019_2020)
+    #generate_csv_for_season(bcnesacommons.Season.T_2019_2020)
     #generate_csv_for_season(bcnesacommons.Season.T_2018_2019)
 
 if __name__ == "__main__":
