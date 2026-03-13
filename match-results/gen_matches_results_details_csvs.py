@@ -20,17 +20,20 @@ def generate_csv_for_season(season):
             #break
         #break
 
-def gen_csv_for_season_competition_category(groups, season, competition, category, days):
+def gen_csv_for_season_competition_category(groups, season, competition, category, competition_match_days_count):
     input_folder = Path(bcnesacommons.RESOURCES_FOLDER) / "matches-results-details/pdf" / str(season) / str(competition) / category
     output_folder = Path(bcnesacommons.RESOURCES_FOLDER) / "matches-results-details/csv" / str(season) / str(competition) / category
 
+    #input_folder = Path(bcnesacommons.RESOURCES_FOLDER) / "testing/matches-results-details/pdf" / str(season) / str(competition) / category
+    #output_folder = Path(bcnesacommons.RESOURCES_FOLDER) / "testing/matches-results-details/csv" / str(season) / str(competition) / category
+
     for group in groups:
-        generate_csv_from_pdfs_in_folder(input_folder, output_folder, group, days, season)
+        generate_csv_from_pdfs_in_folder(input_folder, output_folder, group, competition_match_days_count, season)
         #break
 
-def generate_csv_from_pdfs_in_folder(pdf_input_folder, csv_output_folder, group, days, season):
+def generate_csv_from_pdfs_in_folder(pdf_input_folder, csv_output_folder, group, competition_match_days_count, season):
 
-    for jornada in range(1, days+1):
+    for jornada in range(1, competition_match_days_count+1):
 
         input_filename = "jornada{0}-g{1}.pdf".format(jornada, group["group"])
         input_full_path = pdf_input_folder / input_filename
@@ -41,48 +44,12 @@ def generate_csv_from_pdfs_in_folder(pdf_input_folder, csv_output_folder, group,
         #print("O: " / output_full_path)
 
         if os.path.exists(input_full_path):
-            results_details = extract_matches_details(input_full_path, season)
+            results_details = extract_matches_details(input_full_path, season, group["group"], jornada, competition_match_days_count)
             #print(results_details)
 
             plain_results = gen_plain_results(results_details)
             save_to_csv(plain_results, output_full_path)
             #break
-
-def gen_plain_results(jsonresults):
-    csvresults = []
-
-    try:
-        for jsonrow in jsonresults:
-
-            abc_team = list(filter(lambda x : x["letters"]=="ABC", jsonrow["teams_info"]))[0]["name"]
-            xyz_team = list(filter(lambda x : x["letters"]=="XYZ", jsonrow["teams_info"]))[0]["name"]
-
-            print(abc_team + " --- " +xyz_team)
-
-            for single_match_row in jsonrow["single_matches"]:
-                plainrow = {}
-                abc_player = list(filter(lambda x: x["letter"] in ["A", "B", "C"],single_match_row.values()))[0]
-                xyz_player = list(filter(lambda x: x["letter"] in ["X", "Y", "Z"], single_match_row.values()))[0]
-
-                plainrow["abc_team"] = abc_team
-                plainrow["xyz_team"] = xyz_team
-
-                plainrow["abc_player_letter"] = abc_player["letter"]
-                plainrow["abc_player_license"] = abc_player["license"]
-                plainrow["abc_player_name"] = abc_player["name"]
-                plainrow["abc_player_score"] = abc_player["score"]
-
-                plainrow["xyz_player_letter"] = xyz_player["letter"]
-                plainrow["xyz_player_license"] = xyz_player["license"]
-                plainrow["xyz_player_name"] = xyz_player["name"]
-                plainrow["xyz_player_score"] = xyz_player["score"]
-
-                csvresults.append(plainrow)
-
-    except Exception as e:
-        print(traceback.format_exc())
-
-    return csvresults
 
 def save_to_csv(data, filename):
     if not data:
@@ -99,47 +66,157 @@ def save_to_csv(data, filename):
         writer.writeheader()
         writer.writerows(data)
 
-def extract_matches_details(pdf_path, season):
+def extract_matches_details(pdf_path, season, group, jornada, competition_match_days_count):
+    #print(pdf_path)
     matches = []
     if os.path.exists(pdf_path):
         with pdfplumber.open(pdf_path) as pdf:
-            for page in pdf.pages:
-                match = {}
-                text = page.extract_text()
-                if not text:
-                    continue
 
-                lines = text.split("\n")
-
-                match = fill_match_info(get_header_lines(lines, season))
-                match_results_lines = get_body_lines(lines, season)
-                for line in match_results_lines:
-                    line = line.strip()
-                    #print(line)
-                    if not line:
+            try:
+                for page in pdf.pages:
+                    match_teams_info = {}
+                    text = page.extract_text()
+                    if not text:
                         continue
-                    if re.search(r'\d+\s+\d+$', line):
-                        parsed_line = parse_match_line(line)
-                        if parsed_line:
-                            if "single_match_result" in parsed_line.keys():
-                                if "single_matches" not in match.keys():
-                                    match["single_matches"] = []
-                                match["single_matches"].append(parsed_line["single_match_result"])
-                            elif "match_score" in parsed_line.keys():
-                                match["match_score"] = parsed_line["match_score"]
-                matches.append(match)
+
+                    lines = text.split("\n")
+
+                    match_info = {}
+
+                    if "2019-2020\\veterans\\2a\\jornada1-g2.pdf" in str(pdf_path):
+                        pass
+
+                    match_info["teams_info"] = fill_match_teams_info(get_match_teams_header_lines(lines, season))
+                    match_info["match_info"] = fill_match_info(get_match_header_line(lines, season), group, jornada, competition_match_days_count, match_info["teams_info"])
+                    match_results_lines = get_body_lines(lines, season)
+                    for line in match_results_lines:
+                        line = line.strip()
+                        #print(line)
+                        if not line:
+                            continue
+                        if re.search(r'\d+\s+\d+$', line):
+                            parsed_line = parse_match_line(line)
+                            if parsed_line:
+                                if "single_match_result" in parsed_line.keys():
+                                    if "single_matches" not in match_info.keys():
+                                        match_info["single_matches"] = []
+                                    match_info["single_matches"].append(parsed_line["single_match_result"])
+                                elif "match_score" in parsed_line.keys():
+                                    match_info["match_score"] = parsed_line["match_score"]
+                    matches.append(match_info)
+            except Exception as e:
+                print("FAILED PARSING: "+str(pdf_path))
+
     return matches
 
-def get_header_lines(all_lines, season):
+def gen_plain_results(matches):
+    matchesListOfDicts = []
+    try:
+        for matchRow in matches:
+            match_info = matchRow["match_info"]
+            teams_info = matchRow["teams_info"]
+            if match_info and "home_team" in match_info.keys():
+                for single_match_row in matchRow["single_matches"]:
+                    single_match_dict = {}
+                    add_general_game_info_to_single_match(single_match_dict, match_info)
+                    add_home_info_to_single_match(single_match_dict, single_match_row, match_info, teams_info)
+                    add_away_info_to_single_match(single_match_dict, single_match_row, match_info, teams_info)
+                    single_match_dict["game_type"] = "singles"
+                    matchesListOfDicts.append(single_match_dict)
+
+    except Exception as e:
+        print(traceback.format_exc())
+
+    return matchesListOfDicts
+
+def add_general_game_info_to_single_match(single_match_dict, match_info):
+    single_match_dict["jornada"] = match_info["jornada"]
+    single_match_dict["match_date"] = match_info["date"]
+    single_match_dict["venue"] = None
+    single_match_dict["referee"] = None
+    single_match_dict["game_type"] = None
+    single_match_dict["set1"] = None
+    single_match_dict["set2"] = None
+    single_match_dict["set3"] = None
+    single_match_dict["set4"] = None
+    single_match_dict["set5"] = None
+    return single_match_dict
+
+def add_home_info_to_single_match(single_match_dict, single_match_row, match_info, teams_info):
+    abc_team = list(filter(lambda x: x["letters"] == "ABC", teams_info))[0]["name"]
+    xyz_team = list(filter(lambda x: x["letters"] == "XYZ", teams_info))[0]["name"]
+    is_team_abc_home = abc_team == match_info["home_team"]
+
+    if is_team_abc_home:
+        side_match_info = single_match_row["player_abc"]
+        home_team = abc_team
+        home_player = single_match_row["player_abc"]
+    else:
+        side_match_info = single_match_row["player_xyz"]
+        home_team = xyz_team
+        home_player = single_match_row["player_xyz"]
+
+    single_match_dict["home_team_id"] = None
+    single_match_dict["home_team"] = home_team
+
+    single_match_dict["home_position"] = home_player["letter"]
+    single_match_dict["home_player_lic"] = home_player["license"]
+    single_match_dict["home_player_name"] = home_player["name"]
+    single_match_dict["game_result_home"] = home_player["score"]
+
+    single_match_dict["home_player2_lic"] = None
+    single_match_dict["home_player2_name"] = None
+    single_match_dict["match_score_home"] = None
+    single_match_dict["running_score_home"] = None
+
+    return single_match_dict
+
+def add_away_info_to_single_match(single_match_dict, single_match_row, match_info, teams_info):
+    abc_team = list(filter(lambda x: x["letters"] == "ABC", teams_info))[0]["name"]
+    xyz_team = list(filter(lambda x: x["letters"] == "XYZ", teams_info))[0]["name"]
+    is_team_abc_home = abc_team == match_info["home_team"]
+
+    if is_team_abc_home:
+        side_match_info = single_match_row["player_xyz"]
+        home_team = xyz_team
+        home_player = single_match_row["player_xyz"]
+    else:
+        side_match_info = single_match_row["player_abc"]
+        home_team = abc_team
+        home_player = single_match_row["player_abc"]
+
+
+    single_match_dict["away_team_id"] = None
+    single_match_dict["away_team"] = home_team
+
+    single_match_dict["away_position"] = home_player["letter"]
+    single_match_dict["away_player_lic"] = home_player["license"]
+    single_match_dict["away_player_name"] = home_player["name"]
+    single_match_dict["game_result_away"] = home_player["score"]
+
+    single_match_dict["away_player2_lic"] = None
+    single_match_dict["away_player2_name"] = None
+    single_match_dict["match_score_away"] = None
+    single_match_dict["running_score_away"] = None
+
+    return single_match_dict
+
+def get_match_teams_header_lines(all_lines, season):
     if season == bcnesacommons.Season.T_2019_2020.value:
         return all_lines[:5]
     else:
         return all_lines[:6]
 
+def get_match_header_line(all_lines, season):
+    if season == bcnesacommons.Season.T_2019_2020.value:
+        return all_lines[3]
+    else:
+        return all_lines[4]
+
 def get_body_lines(all_lines, season):
     return all_lines[6:]
 
-def fill_match_info(lines):
+def fill_match_teams_info(lines):
     match_acta_teams = lines[-1]  # ABC CTT CASTELLGALÍ XYZ CTT LA POBLA DE LILLET
 
     teams_pattern_string = r'(ABC|XYZ+)\s+(.*?)\s+(ABC|XYZ+)\s+(.*)'
@@ -147,9 +224,73 @@ def fill_match_info(lines):
     teams_match = teams_matches_pattern.search(match_acta_teams)
     a,b,c,d = teams_match.groups()
     if teams_match:
-        return { "teams_info": [ {"letters": a, "name": b}, {"letters": c, "name": d} ] }
+        return  [
+                {"letters": a, "name": b},
+                {"letters": c, "name": d} ]
     else:
-        return {}
+        return []
+
+def fill_match_info(line, group, jornada, competition_match_days_count, teams):
+    match_info = line
+
+    abc_team = list(filter(lambda x: x["letters"] == "ABC", teams))[0]["name"]
+    xyz_team = list(filter(lambda x: x["letters"] == "XYZ", teams))[0]["name"]
+
+    home_team, away_team = determine_home_away(line, abc_team, xyz_team)
+
+    pattern = r'Acta\s+\d+\s+(\d{2}/\d{2}/\d{2,4})\s+'
+    match = re.match(pattern, match_info)
+    if match:
+        date = match.group(1)  # 01/10/24
+        return {
+            "date": date,
+            "home_team": home_team,
+            "away_team": away_team,
+            "group": group,
+            "jornada": jornada,
+            "competition_match_days_count": competition_match_days_count
+        }
+    return {}
+
+
+def determine_home_away(text, teamabc, teamxyz):
+    """
+    Determines which team is home and which is away based on their position in text.
+    Uses partial matching - teams don't need to appear exactly as in text.
+
+    Returns (home_team, away_team) using the original team name strings,
+    or (None, None) if either team can't be found.
+    """
+    def get_significant_chunks(name, min_len=4):
+        words = name.split()
+        chunks = []
+        for i in range(len(words)):
+            for j in range(i+1, len(words)+1):
+                chunk = ' '.join(words[i:j])
+                if len(chunk) >= min_len:
+                    chunks.append(chunk)
+        return sorted(chunks, key=len, reverse=True)
+
+    def find_first_position(text, team_name):
+        chunks = get_significant_chunks(team_name)
+        for chunk in chunks:
+            m = re.search(re.escape(chunk), text, re.IGNORECASE)
+            if m:
+                return m.start()
+        return None
+
+    header_match = re.match(r'Acta\s+\d+\s+\d{2}/\d{2}/\d{2,4}\s+(.*)', text)
+    if not header_match:
+        return None, None
+
+    match_body = header_match.group(1)
+    pos_abc = find_first_position(match_body, teamabc)
+    pos_xyz = find_first_position(match_body, teamxyz)
+
+    if pos_abc is None or pos_xyz is None:
+        return None, None
+
+    return (teamabc, teamxyz) if pos_abc < pos_xyz else (teamxyz, teamabc)
 
 def parse_match_line(line):
     """
@@ -186,13 +327,13 @@ def parse_match_line(line):
 
     return {
         "single_match_result": {
-            "player_1": {
+            "player_abc": {
                 "letter": letter_player_1,
                 "license": license_player_1,
                 "name": name_player_1,
                 "score": score_player_1
             },
-            "player_2": {
+            "player_xyz": {
                 "letter": letter_player_2,
                 "license": license_player_2,
                 "name": name_player_2,
