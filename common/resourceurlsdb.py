@@ -1,5 +1,32 @@
 from common import bcnesacommons
 
+PLAYEDMATCHESURLS = {
+    bcnesacommons.Season.T_2025_2026: {
+        'base_url': 'https://www.rtbtt.com/lligues2526/ranquing/@encontres_disputats_per_jugador.pdf'
+    },
+    bcnesacommons.Season.T_2024_2025: {
+        'base_url': 'https://www.rtbtt.com/lligues2425/ranquing/@encontres_disputats_per_jugador.pdf'
+    },
+    bcnesacommons.Season.T_2023_2024: {
+        'base_url': 'https://www.rtbtt.com/lligues2324/ranquing/@encontres_disputats_per_jugador.pdf',
+    },
+    bcnesacommons.Season.T_2022_2023: {
+        "base_url": "https://www.rtbtt.com/lligues2223/ranquing/@encontres_disputats_per_jugador.pdf",
+    },
+    bcnesacommons.Season.T_2021_2022: {
+        "base_url": "https://www.rtbtt.com/lligues2122/ranquing/@encontres_disputats_per_jugador.pdf",
+    },
+    bcnesacommons.Season.T_2020_2021: {
+        "base_url": "https://www.rtbtt.com/lligues2021/ranquing/@encontres_disputats_per_jugador.pdf",
+    },
+    bcnesacommons.Season.T_2019_2020: {
+        "base_url": "https://www.rtbtt.com/lligues1920/ranquing/@encontres_disputats_per_jugador.pdf",
+    },
+    bcnesacommons.Season.T_2018_2019: {
+        "base_url": "https://www.rtbtt.com/lligues1819/ranquing/@encontres_disputats_per_jugador.pdf",
+    }
+}
+
 RESULTSURLS = {
     bcnesacommons.Season.T_2024_2025: {
         "base_url": "https://www.rtbtt.com/lligues2425",
@@ -489,6 +516,10 @@ def get_match_days_number_by_category_and_season(season, category):
 
 def get_base_url_for_season(season):
     results = dict(RESULTSURLS[season])
+    return results["base_url"]
+
+def get_played_matches_url_for_season(season):
+    results = dict(PLAYEDMATCHESURLS[season])
     return results["base_url"]
 
 if __name__ == "__main__":
