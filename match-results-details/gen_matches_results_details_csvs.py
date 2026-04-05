@@ -351,7 +351,7 @@ def main():
     #generate_csv_for_season(bcnesacommons.Season.T_2022_2023)
     #generate_csv_for_season(bcnesacommons.Season.T_2021_2022)
     #generate_csv_for_season(bcnesacommons.Season.T_2020_2021)
-    #generate_csv_for_season(bcnesacommons.Season.T_2019_2020)
+    generate_csv_for_season(bcnesacommons.Season.T_2019_2020)
     #generate_csv_for_season(bcnesacommons.Season.T_2018_2019)
 
 if __name__ == "__main__":
