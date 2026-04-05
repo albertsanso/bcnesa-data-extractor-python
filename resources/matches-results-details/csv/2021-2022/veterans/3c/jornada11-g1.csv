@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+11,01/02/22,,,singles,,,,,,,CTT CASTELLDEFELS,A,12501,JULVE Luis,3,,,,,,MOLLET 2002 TT,Y,11484,BLANCH Francisco Javier,1,,,,
+11,01/02/22,,,singles,,,,,,,CTT CASTELLDEFELS,B,13130,GHINI Martín Ezequiel,0,,,,,,MOLLET 2002 TT,X,12476,ASTORT Eduard,3,,,,
+11,01/02/22,,,singles,,,,,,,CTT CASTELLDEFELS,C,10066,VERGES Maria Carmen,1,,,,,,MOLLET 2002 TT,Z,6961,MUÑOZ Jose,3,,,,
+11,01/02/22,,,singles,,,,,,,CTT CASTELLDEFELS,A,12501,JULVE Luis,3,,,,,,MOLLET 2002 TT,X,12476,ASTORT Eduard,2,,,,
+11,01/02/22,,,singles,,,,,,,CTT CASTELLDEFELS,C,10066,VERGES Maria Carmen,1,,,,,,MOLLET 2002 TT,Y,11484,BLANCH Francisco Javier,3,,,,
+11,01/02/22,,,singles,,,,,,,CTT CASTELLDEFELS,B,13130,GHINI Martín Ezequiel,3,,,,,,MOLLET 2002 TT,Z,6961,MUÑOZ Jose,2,,,,
+11,01/02/22,,,singles,,,,,,,XARXA MALGRAT,Y,4055,NOGUERES Joan,3,,,,,,CTT SENTMENAT,A,12906,CRESPO Diego,0,,,,
+11,01/02/22,,,singles,,,,,,,XARXA MALGRAT,X,765,BAYON Mario,3,,,,,,CTT SENTMENAT,B,13065,MARTINEZ Luis,0,,,,
+11,01/02/22,,,singles,,,,,,,XARXA MALGRAT,Z,586,FERNANDEZ Jordi,3,,,,,,CTT SENTMENAT,C,14509,PARULL Xavier,0,,,,
+11,01/02/22,,,singles,,,,,,,XARXA MALGRAT,X,765,BAYON Mario,3,,,,,,CTT SENTMENAT,A,12906,CRESPO Diego,0,,,,
+11,01/02/22,,,singles,,,,,,,XARXA MALGRAT,Y,4055,NOGUERES Joan,3,,,,,,CTT SENTMENAT,C,14509,PARULL Xavier,1,,,,
+11,01/02/22,,,singles,,,,,,,XARXA MALGRAT,Z,586,FERNANDEZ Jordi,3,,,,,,CTT SENTMENAT,B,13065,MARTINEZ Luis,0,,,,

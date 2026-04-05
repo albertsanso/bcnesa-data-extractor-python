@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+11,08/05/21,,,singles,,,,,,,EUROCLIMA BADALONA,A,10061,RULL Jordi,0,,,,,,CTT CASTELLDEFELS,Y,12400,PRIETO Pablo,3,,,,
+11,08/05/21,,,singles,,,,,,,EUROCLIMA BADALONA,B,13070,GONZALEZ David,2,,,,,,CTT CASTELLDEFELS,X,12623,LARREGOLA Nil,3,,,,
+11,08/05/21,,,singles,,,,,,,EUROCLIMA BADALONA,C,10351,GARRIGA Sergi,3,,,,,,CTT CASTELLDEFELS,Z,11672,LARA Pau,2,,,,
+11,08/05/21,,,singles,,,,,,,EUROCLIMA BADALONA,A,10061,RULL Jordi,0,,,,,,CTT CASTELLDEFELS,X,12623,LARREGOLA Nil,3,,,,
+11,08/05/21,,,singles,,,,,,,EUROCLIMA BADALONA,C,10351,GARRIGA Sergi,3,,,,,,CTT CASTELLDEFELS,Y,12400,PRIETO Pablo,0,,,,
+11,08/05/21,,,singles,,,,,,,EUROCLIMA BADALONA,B,13070,GONZALEZ David,1,,,,,,CTT CASTELLDEFELS,Z,11672,LARA Pau,3,,,,
+11,08/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,A,11371,VILA Biel,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,Y,10109,ROYO Jordi,0,,,,
+11,08/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,B,12890,PRUNES Alfred,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,X,6299,VILLENA Javier,2,,,,
+11,08/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,C,13072,LIMACHE Elias,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,Z,6738,VILLENA Adria,0,,,,
+11,08/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,A,11371,VILA Biel,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,X,6299,VILLENA Javier,0,,,,
+11,08/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,C,13072,LIMACHE Elias,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,Y,10109,ROYO Jordi,0,,,,
+11,08/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,B,12890,PRUNES Alfred,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,Z,6738,VILLENA Adria,0,,,,

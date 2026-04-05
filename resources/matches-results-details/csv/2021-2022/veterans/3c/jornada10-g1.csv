@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+10,25/01/22,,,singles,,,,,,,MOLLET 2002 TT,Y,11484,BLANCH Francisco Javier,0,,,,,,XARXA MALGRAT,A,698,MAS Daniel,3,,,,
+10,25/01/22,,,singles,,,,,,,MOLLET 2002 TT,X,5427,BERNAL Martin,0,,,,,,XARXA MALGRAT,B,765,BAYON Mario,3,,,,
+10,25/01/22,,,singles,,,,,,,MOLLET 2002 TT,Z,6961,MUÑOZ Jose,1,,,,,,XARXA MALGRAT,C,4055,NOGUERES Joan,3,,,,
+10,25/01/22,,,singles,,,,,,,MOLLET 2002 TT,X,5427,BERNAL Martin,0,,,,,,XARXA MALGRAT,A,698,MAS Daniel,3,,,,
+10,25/01/22,,,singles,,,,,,,MOLLET 2002 TT,Y,11484,BLANCH Francisco Javier,0,,,,,,XARXA MALGRAT,C,4055,NOGUERES Joan,3,,,,
+10,25/01/22,,,singles,,,,,,,MOLLET 2002 TT,Z,6961,MUÑOZ Jose,0,,,,,,XARXA MALGRAT,B,765,BAYON Mario,3,,,,
+10,25/01/22,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",Y,15087,BOSCH Oriol,3,,,,,,AGRUPACIÓ CONGRÉS,A,9097,BALAGUER Juan Enrique,0,,,,
+10,25/01/22,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",X,154,BOTELLA Joan,3,,,,,,AGRUPACIÓ CONGRÉS,B,171,BENITO Emilio,1,,,,
+10,25/01/22,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",Z,12124,ALASTUEY Hugo Alberto,3,,,,,,AGRUPACIÓ CONGRÉS,C,10704,CARDONA Lorenzo,2,,,,
+10,25/01/22,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",X,154,BOTELLA Joan,3,,,,,,AGRUPACIÓ CONGRÉS,A,9097,BALAGUER Juan Enrique,0,,,,
+10,25/01/22,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",Y,15087,BOSCH Oriol,3,,,,,,AGRUPACIÓ CONGRÉS,C,10704,CARDONA Lorenzo,0,,,,
+10,25/01/22,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",Z,12124,ALASTUEY Hugo Alberto,3,,,,,,AGRUPACIÓ CONGRÉS,B,171,BENITO Emilio,0,,,,

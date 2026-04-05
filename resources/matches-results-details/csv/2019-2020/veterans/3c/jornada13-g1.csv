@@ -1,0 +1,11 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+13,14/01/20,,,singles,,,,,,,CTT ATC MOLINS DE REI,B,13148,PACHECO Jordi,2,,,,,,CTT SENTMENAT ''B'',X,12906,CRESPO Diego,3,,,,
+13,14/01/20,,,singles,,,,,,,CTT ATC MOLINS DE REI,C,11278,GUASCH Josep,3,,,,,,CTT SENTMENAT ''B'',Z,12151,LIARTE Pere,0,,,,
+13,14/01/20,,,singles,,,,,,,CTT ATC MOLINS DE REI,A,80,MARTÍNEZ José,3,,,,,,CTT SENTMENAT ''B'',X,12906,CRESPO Diego,0,,,,
+13,14/01/20,,,singles,,,,,,,CTT ATC MOLINS DE REI,C,11278,GUASCH Josep,3,,,,,,CTT SENTMENAT ''B'',Y,12983,FABREGAT Jordi,0,,,,
+13,14/01/20,,,singles,,,,,,,CTT ATC MOLINS DE REI,B,13148,PACHECO Jordi,3,,,,,,CTT SENTMENAT ''B'',Z,12151,LIARTE Pere,1,,,,
+13,13/01/20,,,singles,,,,,,,SCR EL CIERVO,B,12123,ANDREU Salvador,2,,,,,,CTT RIPOLLET,X,7662,RICO Calixto,3,,,,
+13,13/01/20,,,singles,,,,,,,SCR EL CIERVO,C,11220,BOSCH Joan,0,,,,,,CTT RIPOLLET,Z,11780,LLORENS Vicente,3,,,,
+13,13/01/20,,,singles,,,,,,,SCR EL CIERVO,A,11221,MORGUI Josep Maria,3,,,,,,CTT RIPOLLET,X,7662,RICO Calixto,2,,,,
+13,13/01/20,,,singles,,,,,,,SCR EL CIERVO,C,11220,BOSCH Joan,0,,,,,,CTT RIPOLLET,Y,6783,VILARDELL Alfredo,3,,,,
+13,13/01/20,,,singles,,,,,,,SCR EL CIERVO,B,12123,ANDREU Salvador,1,,,,,,CTT RIPOLLET,Z,11780,LLORENS Vicente,3,,,,

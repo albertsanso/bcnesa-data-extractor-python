@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+16,30/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,A,7988,NAVARRO Angel,3,,,,,,CTT L'HOSPITALET GRUPO PREVING,Y,13503,MOTA Alex,1,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,B,12400,PRIETO Pablo,3,,,,,,CTT L'HOSPITALET GRUPO PREVING,X,6637,JIMENEZ Francisco Manuel,2,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,C,13535,BENAVENTE Nil,3,,,,,,CTT L'HOSPITALET GRUPO PREVING,Z,6547,SACASAS Laia,2,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,A,7988,NAVARRO Angel,0,,,,,,CTT L'HOSPITALET GRUPO PREVING,X,6637,JIMENEZ Francisco Manuel,3,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,C,13535,BENAVENTE Nil,1,,,,,,CTT L'HOSPITALET GRUPO PREVING,Y,13503,MOTA Alex,3,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,B,12400,PRIETO Pablo,3,,,,,,CTT L'HOSPITALET GRUPO PREVING,Z,6547,SACASAS Laia,0,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLGALÍ,A,13152,COBELA Antonio,3,,,,,,EUROCLIMA BADALONA,Y,14129,NAVARRO Laia,0,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLGALÍ,B,14590,MARQUES Anna,1,,,,,,EUROCLIMA BADALONA,X,10061,RULL Jordi,3,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLGALÍ,C,14015,SOLA Roger,0,,,,,,EUROCLIMA BADALONA,Z,11284,SANZ Marcel,3,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLGALÍ,A,13152,COBELA Antonio,2,,,,,,EUROCLIMA BADALONA,X,10061,RULL Jordi,3,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLGALÍ,C,14015,SOLA Roger,3,,,,,,EUROCLIMA BADALONA,Y,14129,NAVARRO Laia,1,,,,
+16,30/05/21,,,singles,,,,,,,CTT CASTELLGALÍ,B,14590,MARQUES Anna,0,,,,,,EUROCLIMA BADALONA,Z,11284,SANZ Marcel,3,,,,

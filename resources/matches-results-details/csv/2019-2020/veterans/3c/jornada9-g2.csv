@@ -1,0 +1,11 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+9,03/12/19,,,singles,,,,,,,CN ST. ANDREU,X,614,MARTINEZ Francisco,3,,,,,,TITUS BADALONA,B,7381,CODINA Jordi,0,,,,
+9,03/12/19,,,singles,,,,,,,CN ST. ANDREU,Z,13059,MEDINA Edwin,3,,,,,,TITUS BADALONA,C,6947,FORES Jaume,0,,,,
+9,03/12/19,,,singles,,,,,,,CN ST. ANDREU,X,614,MARTINEZ Francisco,3,,,,,,TITUS BADALONA,A,10817,RATERA Domènec,0,,,,
+9,03/12/19,,,singles,,,,,,,CN ST. ANDREU,Y,5772,BARRERA Miguel,0,,,,,,TITUS BADALONA,C,6947,FORES Jaume,3,,,,
+9,03/12/19,,,singles,,,,,,,CN ST. ANDREU,Z,13059,MEDINA Edwin,3,,,,,,TITUS BADALONA,B,7381,CODINA Jordi,0,,,,
+9,03/12/19,,,singles,,,,,,,MOLLET 2002 TT,B,10581,SANCHEZ Manuel,0,,,,,,CTT SENTMENAT ''A'',X,884,GARCIA Richard,3,,,,
+9,03/12/19,,,singles,,,,,,,MOLLET 2002 TT,C,6961,MUÑOZ Jose,2,,,,,,CTT SENTMENAT ''A'',Z,12155,MASCLANS Jordi,3,,,,
+9,03/12/19,,,singles,,,,,,,MOLLET 2002 TT,A,5427,BERNAL Martin,0,,,,,,CTT SENTMENAT ''A'',X,884,GARCIA Richard,3,,,,
+9,03/12/19,,,singles,,,,,,,MOLLET 2002 TT,C,6961,MUÑOZ Jose,3,,,,,,CTT SENTMENAT ''A'',Y,13065,MARTINEZ Luis,0,,,,
+9,03/12/19,,,singles,,,,,,,MOLLET 2002 TT,B,10581,SANCHEZ Manuel,2,,,,,,CTT SENTMENAT ''A'',Z,12155,MASCLANS Jordi,3,,,,

@@ -1,0 +1,11 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+14,21/01/20,,,singles,,,,,,,MOLLET 2002 TT,B,6961,MUÑOZ Jose,3,,,,,,TITUS BADALONA,X,6947,FORES Jaume,2,,,,
+14,21/01/20,,,singles,,,,,,,MOLLET 2002 TT,C,36,POU Joan,1,,,,,,TITUS BADALONA,Z,11717,BOLDÚ Sebastià,3,,,,
+14,21/01/20,,,singles,,,,,,,MOLLET 2002 TT,A,10581,SANCHEZ Manuel,1,,,,,,TITUS BADALONA,X,6947,FORES Jaume,3,,,,
+14,21/01/20,,,singles,,,,,,,MOLLET 2002 TT,C,36,POU Joan,3,,,,,,TITUS BADALONA,Y,10817,RATERA Domènec,2,,,,
+14,21/01/20,,,singles,,,,,,,MOLLET 2002 TT,B,6961,MUÑOZ Jose,3,,,,,,TITUS BADALONA,Z,11717,BOLDÚ Sebastià,2,,,,
+14,21/01/20,,,singles,,,,,,,CTT SENTMENAT ''A'',X,13065,MARTINEZ Luis,0,,,,,,BLANXART XALOC OLESA,B,2301,DELGADO Francisco,3,,,,
+14,21/01/20,,,singles,,,,,,,CTT SENTMENAT ''A'',Z,884,GARCIA Richard,3,,,,,,BLANXART XALOC OLESA,C,13215,BOLTA Pep,0,,,,
+14,21/01/20,,,singles,,,,,,,CTT SENTMENAT ''A'',X,13065,MARTINEZ Luis,0,,,,,,BLANXART XALOC OLESA,A,13214,CASCANTE Josep Maria,3,,,,
+14,21/01/20,,,singles,,,,,,,CTT SENTMENAT ''A'',Y,530,ORTEGA Juan Antonio,3,,,,,,BLANXART XALOC OLESA,C,13215,BOLTA Pep,0,,,,
+14,21/01/20,,,singles,,,,,,,CTT SENTMENAT ''A'',Z,884,GARCIA Richard,3,,,,,,BLANXART XALOC OLESA,B,2301,DELGADO Francisco,0,,,,

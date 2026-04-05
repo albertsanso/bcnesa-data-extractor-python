@@ -1,0 +1,6 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+3,14/10/19,,,singles,,,,,,,SCR EL CIERVO,X,12801,CAMPS Jordi,0,,,,,,CTT ATC MOLINS DE REI,B,11278,GUASCH Josep,3,,,,
+3,14/10/19,,,singles,,,,,,,SCR EL CIERVO,Z,8390,LLOBET Oriol,0,,,,,,CTT ATC MOLINS DE REI,C,2524,SALA Carles,3,,,,
+3,14/10/19,,,singles,,,,,,,SCR EL CIERVO,X,12801,CAMPS Jordi,3,,,,,,CTT ATC MOLINS DE REI,A,80,MARTÍNEZ José,1,,,,
+3,14/10/19,,,singles,,,,,,,SCR EL CIERVO,Y,12123,ANDREU Salvador,0,,,,,,CTT ATC MOLINS DE REI,C,2524,SALA Carles,3,,,,
+3,14/10/19,,,singles,,,,,,,SCR EL CIERVO,Z,8390,LLOBET Oriol,0,,,,,,CTT ATC MOLINS DE REI,B,11278,GUASCH Josep,3,,,,

@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+8,11/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,Y,6924,ROMERA Enric,3,,,,,,CTT CARDEDEU EIG,A,6567,CHAVARRIA Isaac,0,,,,
+8,11/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,X,10101,LLADÓ Albert,3,,,,,,CTT CARDEDEU EIG,B,8837,CONSUEGRA Antonio Jose,0,,,,
+8,11/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,Z,8245,MESTRES Enric,3,,,,,,CTT CARDEDEU EIG,C,8729,MONSALVE Francesc,0,,,,
+8,11/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,X,10101,LLADÓ Albert,3,,,,,,CTT CARDEDEU EIG,A,6567,CHAVARRIA Isaac,1,,,,
+8,11/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,Y,6924,ROMERA Enric,3,,,,,,CTT CARDEDEU EIG,C,8729,MONSALVE Francesc,0,,,,
+8,11/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,Z,12579,MUÑOZ Joan,3,,,,,,CTT CARDEDEU EIG,B,8837,CONSUEGRA Antonio Jose,0,,,,
+8,11/01/22,,,singles,,,,,,,TITUS BADALONA,A,149,NOLIS Josep Mª,3,,,,,,CTT ATENEU 1882,Y,220,INFANTE Julia,0,,,,
+8,11/01/22,,,singles,,,,,,,TITUS BADALONA,B,12974,FORMENTÍ Marc,3,,,,,,CTT ATENEU 1882,X,4523,OSORIO David,0,,,,
+8,11/01/22,,,singles,,,,,,,TITUS BADALONA,C,219,FIGUERAS Antoni,3,,,,,,CTT ATENEU 1882,Z,5897,INFANTE Enric,0,,,,
+8,11/01/22,,,singles,,,,,,,TITUS BADALONA,A,149,NOLIS Josep Mª,3,,,,,,CTT ATENEU 1882,X,4523,OSORIO David,1,,,,
+8,11/01/22,,,singles,,,,,,,TITUS BADALONA,C,219,FIGUERAS Antoni,3,,,,,,CTT ATENEU 1882,Y,220,INFANTE Julia,0,,,,
+8,11/01/22,,,singles,,,,,,,TITUS BADALONA,B,12974,FORMENTÍ Marc,3,,,,,,CTT ATENEU 1882,Z,5897,INFANTE Enric,1,,,,

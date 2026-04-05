@@ -1,0 +1,11 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+1,02/10/19,,,singles,,,,,,,CTT RIPOLLET,X,11060,GUTIÉRREZ Santos Javier,0,,,,,,CTT ELS AMICS DE TERRASSA ''B'',B,8489,ESTRADA Marià,3,,,,
+1,02/10/19,,,singles,,,,,,,CTT RIPOLLET,Z,6783,VILARDELL Alfredo,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',C,8459,ROGER Jordi,2,,,,
+1,02/10/19,,,singles,,,,,,,CTT RIPOLLET,X,11060,GUTIÉRREZ Santos Javier,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',A,6902,ARIAS Jordi,1,,,,
+1,02/10/19,,,singles,,,,,,,CTT RIPOLLET,Y,8668,BARCELO Manuel,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',C,8459,ROGER Jordi,0,,,,
+1,02/10/19,,,singles,,,,,,,CTT RIPOLLET,Z,6783,VILARDELL Alfredo,0,,,,,,CTT ELS AMICS DE TERRASSA ''B'',B,8489,ESTRADA Marià,3,,,,
+1,02/10/19,,,singles,,,,,,,LA CASSOLA COLLBATÓ VET C,B,10058,FRANCH Juan Jose,2,,,,,,SCR EL CIERVO,X,12123,ANDREU Salvador,3,,,,
+1,02/10/19,,,singles,,,,,,,LA CASSOLA COLLBATÓ VET C,C,13103,CREMAES Domingo,3,,,,,,SCR EL CIERVO,Z,11220,BOSCH Joan,0,,,,
+1,02/10/19,,,singles,,,,,,,LA CASSOLA COLLBATÓ VET C,A,6920,GARCIA Jose Luis,0,,,,,,SCR EL CIERVO,X,12123,ANDREU Salvador,3,,,,
+1,02/10/19,,,singles,,,,,,,LA CASSOLA COLLBATÓ VET C,C,13103,CREMAES Domingo,1,,,,,,SCR EL CIERVO,Y,12801,CAMPS Jordi,3,,,,
+1,02/10/19,,,singles,,,,,,,LA CASSOLA COLLBATÓ VET C,B,10058,FRANCH Juan Jose,3,,,,,,SCR EL CIERVO,Z,11220,BOSCH Joan,2,,,,

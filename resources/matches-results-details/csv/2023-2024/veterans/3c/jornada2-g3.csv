@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+2,10/10/23,,,singles,,,,,,,"CTT CARDEDEU EIG ""A""",A,8837,CONSUEGRA Antonio Jose,2,,,,,,CTT POBLENOU,Y,11509,VENDRELL Jordi,3,,,,
+2,10/10/23,,,singles,,,,,,,"CTT CARDEDEU EIG ""A""",B,12596,JIMÉNEZ Francisco,3,,,,,,CTT POBLENOU,X,12252,TORQUET Jordi,2,,,,
+2,10/10/23,,,singles,,,,,,,"CTT CARDEDEU EIG ""A""",C,13314,MANZANO Francisco,1,,,,,,CTT POBLENOU,Z,17990,CLEMENT Arnaud,3,,,,
+2,10/10/23,,,singles,,,,,,,"CTT CARDEDEU EIG ""A""",A,8837,CONSUEGRA Antonio Jose,3,,,,,,CTT POBLENOU,X,12252,TORQUET Jordi,2,,,,
+2,10/10/23,,,singles,,,,,,,"CTT CARDEDEU EIG ""A""",C,13314,MANZANO Francisco,0,,,,,,CTT POBLENOU,Y,11509,VENDRELL Jordi,3,,,,
+2,10/10/23,,,singles,,,,,,,"CTT CARDEDEU EIG ""A""",B,12596,JIMÉNEZ Francisco,0,,,,,,CTT POBLENOU,Z,17990,CLEMENT Arnaud,3,,,,
+2,11/10/23,,,singles,,,,,,,CTT COLLBATO ''A'',Y,13142,ORTIN Óscar,0,,,,,,TITUS BADALONA ''A'',A,6290,RUIZ Enric,3,,,,
+2,11/10/23,,,singles,,,,,,,CTT COLLBATO ''A'',Z,16305,MARIAGES Ferran,0,,,,,,TITUS BADALONA ''A'',C,6947,FORES Jaume,3,,,,
+2,11/10/23,,,singles,,,,,,,CTT COLLBATO ''A'',Y,13142,ORTIN Óscar,0,,,,,,TITUS BADALONA ''A'',C,6947,FORES Jaume,3,,,,
+2,11/10/23,,,singles,,,,,,,CTT COLLBATO ''A'',Z,16305,MARIAGES Ferran,0,,,,,,TITUS BADALONA ''A'',B,10351,GARRIGA Sergi,3,,,,
+2,11/10/23,,,singles,,,,,,,TT L'HOSPITALET ''A'',C,8444,PANADES Enrique,3,,,,,,CTT DELS HORTS 2000,Z,7652,SANCHEZ Fernando,2,,,,
+2,11/10/23,,,singles,,,,,,,TT L'HOSPITALET ''A'',B,8253,MARRO Daniel,3,,,,,,CTT DELS HORTS 2000,Z,7652,SANCHEZ Fernando,0,,,,

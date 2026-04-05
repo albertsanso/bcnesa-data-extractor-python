@@ -1,0 +1,10 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+1,01/10/19,,,singles,,,,,,,MOLLET 2002 TT,B,6961,MUÑOZ Jose,3,,,,,,BLANXART XALOC OLESA,X,2301,DELGADO Francisco,0,,,,
+1,01/10/19,,,singles,,,,,,,MOLLET 2002 TT,C,36,POU Joan,3,,,,,,BLANXART XALOC OLESA,Z,13226,RIVERA Juanjo,0,,,,
+1,01/10/19,,,singles,,,,,,,MOLLET 2002 TT,A,10581,SANCHEZ Manuel,3,,,,,,BLANXART XALOC OLESA,X,2301,DELGADO Francisco,2,,,,
+1,01/10/19,,,singles,,,,,,,MOLLET 2002 TT,C,36,POU Joan,3,,,,,,BLANXART XALOC OLESA,Y,13377,CHICA Eugenio,1,,,,
+1,01/10/19,,,singles,,,,,,,MOLLET 2002 TT,B,6961,MUÑOZ Jose,3,,,,,,BLANXART XALOC OLESA,Z,13226,RIVERA Juanjo,0,,,,
+1,01/10/19,,,singles,,,,,,,CN ST. ANDREU,B,13059,MEDINA Edwin,0,,,,,,CTT DELS HORTS 2000,X,162,TIRADO Andrés,3,,,,
+1,01/10/19,,,singles,,,,,,,CN ST. ANDREU,C,12211,JULIA Javier,3,,,,,,CTT DELS HORTS 2000,Z,2485,BRETONES Francisco,0,,,,
+1,01/10/19,,,singles,,,,,,,CN ST. ANDREU,A,607,CASTILLO Carlos Jesús,2,,,,,,CTT DELS HORTS 2000,X,162,TIRADO Andrés,3,,,,
+1,01/10/19,,,singles,,,,,,,CN ST. ANDREU,B,13059,MEDINA Edwin,3,,,,,,CTT DELS HORTS 2000,Z,2485,BRETONES Francisco,1,,,,

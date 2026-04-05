@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+8,17/04/21,,,singles,,,,,,,PROTEC BADALONA,Y,11280,MARTÍNEZ Carlos,3,,,,,,LLUÏSOS DE GRÀCIA ''B'',A,10885,LOZANO Manel,1,,,,
+8,17/04/21,,,singles,,,,,,,PROTEC BADALONA,X,11283,RAVENTÓS Arnau,2,,,,,,LLUÏSOS DE GRÀCIA ''B'',B,8247,FLORIDO Kapil,3,,,,
+8,17/04/21,,,singles,,,,,,,PROTEC BADALONA,Z,149,NOLIS Josep Mª,3,,,,,,LLUÏSOS DE GRÀCIA ''B'',C,12171,MARCO Oriol,0,,,,
+8,17/04/21,,,singles,,,,,,,PROTEC BADALONA,X,11283,RAVENTÓS Arnau,3,,,,,,LLUÏSOS DE GRÀCIA ''B'',A,10885,LOZANO Manel,1,,,,
+8,17/04/21,,,singles,,,,,,,PROTEC BADALONA,Y,11280,MARTÍNEZ Carlos,0,,,,,,LLUÏSOS DE GRÀCIA ''B'',C,12171,MARCO Oriol,3,,,,
+8,17/04/21,,,singles,,,,,,,PROTEC BADALONA,Z,149,NOLIS Josep Mª,3,,,,,,LLUÏSOS DE GRÀCIA ''B'',B,8247,FLORIDO Kapil,0,,,,
+8,17/04/21,,,singles,,,,,,,CLUB NATACIO SABADELL,Y,3933,ALCARAZ Joan,0,,,,,,CTT SANT QUIRZE DEL VALLÈS,A,3484,FERRERA Carlos Augusto,3,,,,
+8,17/04/21,,,singles,,,,,,,CLUB NATACIO SABADELL,X,11165,DINARES Jordi,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,B,317,LALINDE Carlos,0,,,,
+8,17/04/21,,,singles,,,,,,,CLUB NATACIO SABADELL,Z,10265,PLAYÀ Francesc,0,,,,,,CTT SANT QUIRZE DEL VALLÈS,C,14565,MATTSSON Tony Michael,3,,,,
+8,17/04/21,,,singles,,,,,,,CLUB NATACIO SABADELL,X,11165,DINARES Jordi,2,,,,,,CTT SANT QUIRZE DEL VALLÈS,A,3484,FERRERA Carlos Augusto,3,,,,
+8,17/04/21,,,singles,,,,,,,CLUB NATACIO SABADELL,Y,3933,ALCARAZ Joan,0,,,,,,CTT SANT QUIRZE DEL VALLÈS,C,14565,MATTSSON Tony Michael,3,,,,
+8,17/04/21,,,singles,,,,,,,CLUB NATACIO SABADELL,Z,10265,PLAYÀ Francesc,0,,,,,,CTT SANT QUIRZE DEL VALLÈS,B,317,LALINDE Carlos,3,,,,

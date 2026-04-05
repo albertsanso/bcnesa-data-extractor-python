@@ -1,0 +1,11 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+1,01/10/19,,,singles,,,,,,,CATT SANT CELONI,X,163,GARCIA Jose Luis,0,,,,,,LLUÏSOS DE GRÀCIA,B,10102,MARTORELL Alex,3,,,,
+1,01/10/19,,,singles,,,,,,,CATT SANT CELONI,Z,13086,DE FEDERICO Daniel,3,,,,,,LLUÏSOS DE GRÀCIA,C,11330,ROSA Segundo,2,,,,
+1,01/10/19,,,singles,,,,,,,CATT SANT CELONI,X,163,GARCIA Jose Luis,0,,,,,,LLUÏSOS DE GRÀCIA,A,8245,MESTRES Enric,3,,,,
+1,01/10/19,,,singles,,,,,,,CATT SANT CELONI,Y,3424,SANAHUJA Jordi,3,,,,,,LLUÏSOS DE GRÀCIA,C,11330,ROSA Segundo,0,,,,
+1,01/10/19,,,singles,,,,,,,CATT SANT CELONI,Z,13086,DE FEDERICO Daniel,0,,,,,,LLUÏSOS DE GRÀCIA,B,10102,MARTORELL Alex,3,,,,
+1,01/10/19,,,singles,,,,,,,CTT ATENEU 1882,B,220,INFANTE Julia,0,,,,,,CTT ELS AMICS DE TERRASSA ''A'',X,3484,FERRERA Carlos Augusto,3,,,,
+1,01/10/19,,,singles,,,,,,,CTT ATENEU 1882,C,5897,INFANTE Enric,2,,,,,,CTT ELS AMICS DE TERRASSA ''A'',Z,10035,PAGÈS Xavier,3,,,,
+1,01/10/19,,,singles,,,,,,,CTT ATENEU 1882,A,4523,OSORIO David,0,,,,,,CTT ELS AMICS DE TERRASSA ''A'',X,3484,FERRERA Carlos Augusto,3,,,,
+1,01/10/19,,,singles,,,,,,,CTT ATENEU 1882,C,5897,INFANTE Enric,0,,,,,,CTT ELS AMICS DE TERRASSA ''A'',Y,4405,CAROL Santiago,3,,,,
+1,01/10/19,,,singles,,,,,,,CTT ATENEU 1882,B,220,INFANTE Julia,1,,,,,,CTT ELS AMICS DE TERRASSA ''A'',Z,10035,PAGÈS Xavier,3,,,,

@@ -1,0 +1,11 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+3,15/10/19,,,singles,,,,,,,CATT SANT CELONI,X,13085,HERRERO Javier,1,,,,,,EL CERCLE TT GRÀCIA,B,12142,DE ELIAS Berenguer,3,,,,
+3,15/10/19,,,singles,,,,,,,CATT SANT CELONI,Z,13084,PERIAGO Francesc,0,,,,,,EL CERCLE TT GRÀCIA,C,6880,COLET Albert,3,,,,
+3,15/10/19,,,singles,,,,,,,CATT SANT CELONI,X,13085,HERRERO Javier,3,,,,,,EL CERCLE TT GRÀCIA,A,8337,BLANCO Alfons,0,,,,
+3,15/10/19,,,singles,,,,,,,CATT SANT CELONI,Y,12595,BRASÓ Marc,0,,,,,,EL CERCLE TT GRÀCIA,C,6880,COLET Albert,3,,,,
+3,15/10/19,,,singles,,,,,,,CATT SANT CELONI,Z,13084,PERIAGO Francesc,0,,,,,,EL CERCLE TT GRÀCIA,B,12142,DE ELIAS Berenguer,3,,,,
+3,14/10/19,,,singles,,,,,,,EL CENTRE,X,406,GIL Juan Manuel,1,,,,,,LLUÏSOS DE GRÀCIA,B,6924,ROMERA Enric,3,,,,
+3,14/10/19,,,singles,,,,,,,EL CENTRE,Z,5759,BADIA Albert,3,,,,,,LLUÏSOS DE GRÀCIA,C,10101,LLADÓ Albert,0,,,,
+3,14/10/19,,,singles,,,,,,,EL CENTRE,X,406,GIL Juan Manuel,0,,,,,,LLUÏSOS DE GRÀCIA,A,8245,MESTRES Enric,3,,,,
+3,14/10/19,,,singles,,,,,,,EL CENTRE,Y,549,VERA Juan,0,,,,,,LLUÏSOS DE GRÀCIA,C,10101,LLADÓ Albert,3,,,,
+3,14/10/19,,,singles,,,,,,,EL CENTRE,Z,5759,BADIA Albert,1,,,,,,LLUÏSOS DE GRÀCIA,B,6924,ROMERA Enric,3,,,,

@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+10,25/01/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',A,851,SERRES Jordi,3,,,,,,CTT ATENEU 1882,Y,1725,BONAVILA Alejandro,0,,,,
+10,25/01/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',B,10035,PAGÈS Xavier,3,,,,,,CTT ATENEU 1882,X,4523,OSORIO David,0,,,,
+10,25/01/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',C,4405,CAROL Santiago,3,,,,,,CTT ATENEU 1882,Z,14579,ALOY Raimond,0,,,,
+10,25/01/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',A,851,SERRES Jordi,3,,,,,,CTT ATENEU 1882,X,4523,OSORIO David,0,,,,
+10,25/01/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',C,4405,CAROL Santiago,3,,,,,,CTT ATENEU 1882,Y,1725,BONAVILA Alejandro,0,,,,
+10,25/01/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',B,10035,PAGÈS Xavier,3,,,,,,CTT ATENEU 1882,Z,14579,ALOY Raimond,1,,,,
+10,25/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,A,8245,MESTRES Enric,0,,,,,,TITUS BADALONA,Y,149,NOLIS Josep Mª,3,,,,
+10,25/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,B,5878,CLASEN Andreas Paul,1,,,,,,TITUS BADALONA,X,10817,RATERA Domènec,3,,,,
+10,25/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,C,12579,MUÑOZ Joan,0,,,,,,TITUS BADALONA,Z,219,FIGUERAS Antoni,3,,,,
+10,25/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,A,8245,MESTRES Enric,3,,,,,,TITUS BADALONA,X,10817,RATERA Domènec,1,,,,
+10,25/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,C,12579,MUÑOZ Joan,0,,,,,,TITUS BADALONA,Y,149,NOLIS Josep Mª,3,,,,
+10,25/01/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,B,5878,CLASEN Andreas Paul,0,,,,,,TITUS BADALONA,Z,219,FIGUERAS Antoni,3,,,,

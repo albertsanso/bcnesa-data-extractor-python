@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+13,23/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Y,11510,ROMAN Miguel,3,,,,,,EUROCLIMA BADALONA,A,11284,SANZ Marcel,1,,,,
+13,23/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,X,13455,COSTA Roc,3,,,,,,EUROCLIMA BADALONA,B,10351,GARRIGA Sergi,1,,,,
+13,23/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Z,13072,LIMACHE Elias,3,,,,,,EUROCLIMA BADALONA,C,13070,GONZALEZ David,0,,,,
+13,23/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,X,13455,COSTA Roc,3,,,,,,EUROCLIMA BADALONA,A,11284,SANZ Marcel,0,,,,
+13,23/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Y,11510,ROMAN Miguel,3,,,,,,EUROCLIMA BADALONA,C,13070,GONZALEZ David,0,,,,
+13,23/05/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Z,13072,LIMACHE Elias,3,,,,,,EUROCLIMA BADALONA,B,10351,GARRIGA Sergi,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,Y,8320,GONZÁLEZ Arnau,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,A,12904,JIMENEZ Marti,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,X,12623,LARREGOLA Nil,1,,,,,,CTT SANT QUIRZE DEL VALLÈS,B,1893,JIMENEZ Jose Antonio,3,,,,
+13,23/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,Z,11672,LARA Pau,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,C,1770,MILLERA Carlos,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,X,12623,LARREGOLA Nil,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,A,12904,JIMENEZ Marti,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,Y,8320,GONZÁLEZ Arnau,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,C,1770,MILLERA Carlos,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT CASTELLDEFELS,Z,11672,LARA Pau,0,,,,,,CTT SANT QUIRZE DEL VALLÈS,B,1893,JIMENEZ Jose Antonio,3,,,,

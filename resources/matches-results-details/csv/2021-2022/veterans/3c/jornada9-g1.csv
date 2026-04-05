@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+9,18/01/22,,,singles,,,,,,,CTT CASTELLDEFELS,A,6822,GUILLEN Jorge Benito,3,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",Y,10109,ROYO Jordi,1,,,,
+9,18/01/22,,,singles,,,,,,,CTT CASTELLDEFELS,B,4336,INSAUSTI Juan José,0,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",X,154,BOTELLA Joan,3,,,,
+9,18/01/22,,,singles,,,,,,,CTT CASTELLDEFELS,C,8021,CASOLIVA Juan Jose,3,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",Z,11340,ROMERO Gabriel,0,,,,
+9,18/01/22,,,singles,,,,,,,CTT CASTELLDEFELS,A,6822,GUILLEN Jorge Benito,1,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",X,154,BOTELLA Joan,3,,,,
+9,18/01/22,,,singles,,,,,,,CTT CASTELLDEFELS,C,8021,CASOLIVA Juan Jose,3,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",Y,10109,ROYO Jordi,0,,,,
+9,18/01/22,,,singles,,,,,,,CTT CASTELLDEFELS,B,4336,INSAUSTI Juan José,3,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",Z,11340,ROMERO Gabriel,0,,,,
+9,18/01/22,,,singles,,,,,,,CTT SENTMENAT,A,12154,NOVA Xavier,3,,,,,,MOLLET 2002 TT,Y,12476,ASTORT Eduard,0,,,,
+9,18/01/22,,,singles,,,,,,,CTT SENTMENAT,B,7090,TERUEL Alejandro,0,,,,,,MOLLET 2002 TT,X,5427,BERNAL Martin,3,,,,
+9,18/01/22,,,singles,,,,,,,CTT SENTMENAT,C,12906,CRESPO Diego,0,,,,,,MOLLET 2002 TT,Z,6961,MUÑOZ Jose,3,,,,
+9,18/01/22,,,singles,,,,,,,CTT SENTMENAT,A,12154,NOVA Xavier,3,,,,,,MOLLET 2002 TT,X,5427,BERNAL Martin,0,,,,
+9,18/01/22,,,singles,,,,,,,CTT SENTMENAT,C,12906,CRESPO Diego,3,,,,,,MOLLET 2002 TT,Y,12476,ASTORT Eduard,2,,,,
+9,18/01/22,,,singles,,,,,,,CTT SENTMENAT,B,7090,TERUEL Alejandro,2,,,,,,MOLLET 2002 TT,Z,6961,MUÑOZ Jose,3,,,,

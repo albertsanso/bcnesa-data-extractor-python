@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+7,16/12/21,,,singles,,,,,,,CC SANT ANDREU,A,68,MARTINEZ Felipe,3,,,,,,CTT OLESA,Y,13215,BOLTA Pep,0,,,,
+7,16/12/21,,,singles,,,,,,,CC SANT ANDREU,B,270,MARTINEZ Jordi,2,,,,,,CTT OLESA,X,2301,DELGADO Francisco,3,,,,
+7,16/12/21,,,singles,,,,,,,CC SANT ANDREU,C,3266,GASSOL Gabriel,1,,,,,,CTT OLESA,Z,13226,RIVERA Juanjo,3,,,,
+7,16/12/21,,,singles,,,,,,,CC SANT ANDREU,A,68,MARTINEZ Felipe,3,,,,,,CTT OLESA,X,2301,DELGADO Francisco,1,,,,
+7,16/12/21,,,singles,,,,,,,CC SANT ANDREU,C,3266,GASSOL Gabriel,3,,,,,,CTT OLESA,Y,13215,BOLTA Pep,1,,,,
+7,16/12/21,,,singles,,,,,,,CC SANT ANDREU,B,270,MARTINEZ Jordi,0,,,,,,CTT OLESA,Z,13226,RIVERA Juanjo,3,,,,
+7,14/12/21,,,singles,,,,,,,CTT ATC MOLINS DE REI,Y,470,DURAN Ignasi,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',A,8680,CRISPI David,1,,,,
+7,14/12/21,,,singles,,,,,,,CTT ATC MOLINS DE REI,X,1014,MINGUELL Roger,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',B,8841,PEREZ Raul,0,,,,
+7,14/12/21,,,singles,,,,,,,CTT ATC MOLINS DE REI,Z,6167,ESTRADA Jordi,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',C,6902,ARIAS Jordi,1,,,,
+7,14/12/21,,,singles,,,,,,,CTT ATC MOLINS DE REI,X,1014,MINGUELL Roger,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',A,8680,CRISPI David,1,,,,
+7,14/12/21,,,singles,,,,,,,CTT ATC MOLINS DE REI,Y,470,DURAN Ignasi,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',C,6902,ARIAS Jordi,0,,,,
+7,14/12/21,,,singles,,,,,,,CTT ATC MOLINS DE REI,Z,283,NICOLAS Francisco,3,,,,,,CTT ELS AMICS DE TERRASSA ''B'',B,8841,PEREZ Raul,1,,,,

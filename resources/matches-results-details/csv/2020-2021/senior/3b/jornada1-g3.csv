@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+1,21/03/21,,,singles,,,,,,,CTT VILASSAR DE MAR L’OBRERA,A,260,LLANAS Albert,0,,,,,,CTT RIPOLLET,Y,11060,GUTIÉRREZ Santos Javier,3,,,,
+1,21/03/21,,,singles,,,,,,,CTT VILASSAR DE MAR L’OBRERA,B,2236,FOLCH Jordi,3,,,,,,CTT RIPOLLET,X,12300,DOMINGO Carmen,1,,,,
+1,21/03/21,,,singles,,,,,,,CTT VILASSAR DE MAR L’OBRERA,C,12981,CARBONELL Tura,1,,,,,,CTT RIPOLLET,Z,7665,RODRIGUEZ Igor,3,,,,
+1,21/03/21,,,singles,,,,,,,CTT VILASSAR DE MAR L’OBRERA,A,260,LLANAS Albert,2,,,,,,CTT RIPOLLET,X,12300,DOMINGO Carmen,3,,,,
+1,21/03/21,,,singles,,,,,,,CTT VILASSAR DE MAR L’OBRERA,C,12981,CARBONELL Tura,0,,,,,,CTT RIPOLLET,Y,11060,GUTIÉRREZ Santos Javier,3,,,,
+1,21/03/21,,,singles,,,,,,,CTT VILASSAR DE MAR L’OBRERA,B,13542,SAÑUDO Joel,1,,,,,,CTT RIPOLLET,Z,7665,RODRIGUEZ Igor,3,,,,
+1,20/03/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,Y,4516,GARCIA Jordi,3,,,,,,"CLUB NATACIÓ SABADELL ""B""",A,14387,RECHE Alex,0,,,,
+1,20/03/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,X,13677,FRANTZ Alex Noah,2,,,,,,"CLUB NATACIÓ SABADELL ""B""",B,11746,YANG Owen,3,,,,
+1,20/03/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,Z,13670,ALONSO Pelayo,0,,,,,,"CLUB NATACIÓ SABADELL ""B""",C,12136,PLAZA Pau,3,,,,
+1,20/03/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,X,13677,FRANTZ Alex Noah,3,,,,,,"CLUB NATACIÓ SABADELL ""B""",A,14387,RECHE Alex,0,,,,
+1,20/03/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,Y,4516,GARCIA Jordi,3,,,,,,"CLUB NATACIÓ SABADELL ""B""",C,12136,PLAZA Pau,0,,,,
+1,20/03/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,Z,13670,ALONSO Pelayo,0,,,,,,"CLUB NATACIÓ SABADELL ""B""",B,11746,YANG Owen,3,,,,

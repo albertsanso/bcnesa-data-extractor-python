@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+7,15/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,Y,116,PUYUELO Amadeo,0,,,,,,XARXA MALGRAT,A,4055,NOGUERES Joan,3,,,,
+7,15/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,X,13098,CARDONA Eduard,3,,,,,,XARXA MALGRAT,B,13292,SARQUEDA Oscar,0,,,,
+7,15/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,Z,13081,GOMEZ David,3,,,,,,XARXA MALGRAT,C,632,DOVARGANES Servant,0,,,,
+7,15/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,X,13098,CARDONA Eduard,0,,,,,,XARXA MALGRAT,A,4055,NOGUERES Joan,3,,,,
+7,15/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,Y,116,PUYUELO Amadeo,1,,,,,,XARXA MALGRAT,C,632,DOVARGANES Servant,3,,,,
+7,15/12/21,,,singles,,,,,,,AGRUPACIÓ CONGRÉS,Z,13081,GOMEZ David,3,,,,,,XARXA MALGRAT,B,13292,SARQUEDA Oscar,0,,,,
+7,14/12/21,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",A,946,PEIRIS Enrique,3,,,,,,CTT SENTMENAT,Y,12906,CRESPO Diego,0,,,,
+7,14/12/21,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",B,12124,ALASTUEY Hugo Alberto,1,,,,,,CTT SENTMENAT,X,13065,MARTINEZ Luis,3,,,,
+7,14/12/21,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",C,154,BOTELLA Joan,3,,,,,,CTT SENTMENAT,Z,884,GARCIA Richard,0,,,,
+7,14/12/21,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",A,946,PEIRIS Enrique,3,,,,,,CTT SENTMENAT,X,13065,MARTINEZ Luis,0,,,,
+7,14/12/21,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",C,154,BOTELLA Joan,3,,,,,,CTT SENTMENAT,Y,12906,CRESPO Diego,0,,,,
+7,14/12/21,,,singles,,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",B,12124,ALASTUEY Hugo Alberto,0,,,,,,CTT SENTMENAT,Z,884,GARCIA Richard,3,,,,

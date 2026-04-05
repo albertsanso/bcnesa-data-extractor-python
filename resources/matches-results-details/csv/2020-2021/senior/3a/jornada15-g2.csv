@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+15,30/05/21,,,singles,,,,,,,MASQUEFA TTC,A,7589,BUENO Poul Ignasi,3,,,,,,TT TORELLÓ,Y,13576,BARGAY Ausiàs,2,,,,
+15,30/05/21,,,singles,,,,,,,MASQUEFA TTC,B,11199,SAMPERE Daniel,3,,,,,,TT TORELLÓ,X,8463,VELASCO Cristobal,0,,,,
+15,30/05/21,,,singles,,,,,,,MASQUEFA TTC,C,12288,VIDAL Gerard,2,,,,,,TT TORELLÓ,Z,8046,BERENGUERAS Genis,3,,,,
+15,30/05/21,,,singles,,,,,,,MASQUEFA TTC,A,7589,BUENO Poul Ignasi,3,,,,,,TT TORELLÓ,X,8463,VELASCO Cristobal,0,,,,
+15,30/05/21,,,singles,,,,,,,MASQUEFA TTC,C,12288,VIDAL Gerard,1,,,,,,TT TORELLÓ,Y,13576,BARGAY Ausiàs,3,,,,
+15,30/05/21,,,singles,,,,,,,MASQUEFA TTC,B,11199,SAMPERE Daniel,3,,,,,,TT TORELLÓ,Z,8046,BERENGUERAS Genis,1,,,,
+15,29/05/21,,,singles,,,,,,,LLUÏSOS DE GRÀCIA,Y,12467,BATET Pol,3,,,,,,MOLLET 2002 TT,A,12168,CASTILLO Isaac,0,,,,
+15,29/05/21,,,singles,,,,,,,LLUÏSOS DE GRÀCIA,X,10899,COROMINA Bruno,0,,,,,,MOLLET 2002 TT,B,5029,GIRALT Daniel,3,,,,
+15,29/05/21,,,singles,,,,,,,LLUÏSOS DE GRÀCIA,Z,12173,SERENA Pere Gustav,3,,,,,,MOLLET 2002 TT,C,5427,BERNAL Martin,0,,,,
+15,29/05/21,,,singles,,,,,,,LLUÏSOS DE GRÀCIA,X,10899,COROMINA Bruno,2,,,,,,MOLLET 2002 TT,A,12168,CASTILLO Isaac,3,,,,
+15,29/05/21,,,singles,,,,,,,LLUÏSOS DE GRÀCIA,Y,12467,BATET Pol,3,,,,,,MOLLET 2002 TT,C,5427,BERNAL Martin,1,,,,
+15,29/05/21,,,singles,,,,,,,LLUÏSOS DE GRÀCIA,Z,12173,SERENA Pere Gustav,0,,,,,,MOLLET 2002 TT,B,5029,GIRALT Daniel,3,,,,

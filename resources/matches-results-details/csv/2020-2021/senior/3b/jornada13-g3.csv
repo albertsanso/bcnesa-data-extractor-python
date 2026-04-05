@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+13,23/05/21,,,singles,,,,,,,CTT CARDEDEU EIG ''A'',A,14337,PEINADO Eduard,0,,,,,,CTT VILASSAR DE MAR L’OBRERA,Y,12981,CARBONELL Tura,3,,,,
+13,23/05/21,,,singles,,,,,,,CTT CARDEDEU EIG ''A'',B,5607,GUAL Carles,0,,,,,,CTT VILASSAR DE MAR L’OBRERA,X,2236,FOLCH Jordi,3,,,,
+13,23/05/21,,,singles,,,,,,,CTT CARDEDEU EIG ''A'',C,1364,ROMERO Marc,3,,,,,,CTT VILASSAR DE MAR L’OBRERA,Z,12325,PIÑOL Nuria,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT CARDEDEU EIG ''A'',A,14337,PEINADO Eduard,0,,,,,,CTT VILASSAR DE MAR L’OBRERA,X,2236,FOLCH Jordi,3,,,,
+13,23/05/21,,,singles,,,,,,,CTT CARDEDEU EIG ''A'',C,1364,ROMERO Marc,3,,,,,,CTT VILASSAR DE MAR L’OBRERA,Y,12981,CARBONELL Tura,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT CARDEDEU EIG ''A'',B,5607,GUAL Carles,3,,,,,,CTT VILASSAR DE MAR L’OBRERA,Z,12325,PIÑOL Nuria,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,Y,12593,BOADA Marti,2,,,,,,TERMOTUR CALELLA,A,11314,CODINA Axel,3,,,,
+13,23/05/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,X,13677,FRANTZ Alex Noah,1,,,,,,TERMOTUR CALELLA,B,14422,TORROJA Jordi,3,,,,
+13,23/05/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,Z,4516,GARCIA Jordi,3,,,,,,TERMOTUR CALELLA,C,10220,PLAZA Francisco José,0,,,,
+13,23/05/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,X,13677,FRANTZ Alex Noah,1,,,,,,TERMOTUR CALELLA,A,11314,CODINA Axel,3,,,,
+13,23/05/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,Y,12593,BOADA Marti,3,,,,,,TERMOTUR CALELLA,C,10220,PLAZA Francisco José,2,,,,
+13,23/05/21,,,singles,,,,,,,CTT JOSEP MARIA PALES,Z,4516,GARCIA Jordi,3,,,,,,TERMOTUR CALELLA,B,14422,TORROJA Jordi,0,,,,

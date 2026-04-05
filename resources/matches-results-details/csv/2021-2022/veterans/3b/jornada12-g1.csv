@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+12,09/02/22,,,singles,,,,,,,CTT RIPOLLET,Y,8668,BARCELO Manuel,3,,,,,,CTT CARDEDEU EIG,A,12596,JIMÉNEZ Francisco,0,,,,
+12,09/02/22,,,singles,,,,,,,CTT RIPOLLET,X,6783,VILARDELL Alfredo,3,,,,,,CTT CARDEDEU EIG,B,13314,MANZANO Francisco,0,,,,
+12,09/02/22,,,singles,,,,,,,CTT RIPOLLET,Z,11780,LLORENS Vicente,3,,,,,,CTT CARDEDEU EIG,C,15044,TEIXIDÓ Salvador,0,,,,
+12,09/02/22,,,singles,,,,,,,CTT RIPOLLET,X,6783,VILARDELL Alfredo,3,,,,,,CTT CARDEDEU EIG,A,12596,JIMÉNEZ Francisco,1,,,,
+12,09/02/22,,,singles,,,,,,,CTT RIPOLLET,Y,8668,BARCELO Manuel,3,,,,,,CTT CARDEDEU EIG,C,15044,TEIXIDÓ Salvador,0,,,,
+12,09/02/22,,,singles,,,,,,,CTT RIPOLLET,Z,11780,LLORENS Vicente,3,,,,,,CTT CARDEDEU EIG,B,13314,MANZANO Francisco,0,,,,
+12,08/02/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',Y,9121,MIGUEL Jorge,3,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,A,15072,FERREIRO Ricardo,2,,,,
+12,08/02/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',X,851,SERRES Jordi,3,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,B,8245,MESTRES Enric,1,,,,
+12,08/02/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',Z,10035,PAGÈS Xavier,3,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,C,5878,CLASEN Andreas Paul,0,,,,
+12,08/02/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',X,851,SERRES Jordi,3,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,A,15072,FERREIRO Ricardo,2,,,,
+12,08/02/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',Y,9121,MIGUEL Jorge,3,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,C,5878,CLASEN Andreas Paul,1,,,,
+12,08/02/22,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''A'',Z,10035,PAGÈS Xavier,1,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,B,8245,MESTRES Enric,3,,,,

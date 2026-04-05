@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+14,01/03/22,,,singles,,,,,,,XARXA MALGRAT,Y,765,BAYON Mario,3,,,,,,AGRUPACIÓ CONGRÉS,A,9097,BALAGUER Juan Enrique,0,,,,
+14,01/03/22,,,singles,,,,,,,XARXA MALGRAT,X,586,FERNANDEZ Jordi,3,,,,,,AGRUPACIÓ CONGRÉS,B,10704,CARDONA Lorenzo,0,,,,
+14,01/03/22,,,singles,,,,,,,XARXA MALGRAT,Z,4055,NOGUERES Joan,3,,,,,,AGRUPACIÓ CONGRÉS,C,116,PUYUELO Amadeo,0,,,,
+14,01/03/22,,,singles,,,,,,,XARXA MALGRAT,X,586,FERNANDEZ Jordi,3,,,,,,AGRUPACIÓ CONGRÉS,A,9097,BALAGUER Juan Enrique,0,,,,
+14,01/03/22,,,singles,,,,,,,XARXA MALGRAT,Y,765,BAYON Mario,3,,,,,,AGRUPACIÓ CONGRÉS,C,116,PUYUELO Amadeo,0,,,,
+14,01/03/22,,,singles,,,,,,,XARXA MALGRAT,Z,13292,SARQUEDA Oscar,0,,,,,,AGRUPACIÓ CONGRÉS,B,10704,CARDONA Lorenzo,3,,,,
+14,01/03/22,,,singles,,,,,,,CTT SENTMENAT,Y,7090,TERUEL Alejandro,0,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",A,1893,JIMENEZ Jose Antonio,3,,,,
+14,01/03/22,,,singles,,,,,,,CTT SENTMENAT,X,14509,PARULL Xavier,0,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",B,12124,ALASTUEY Hugo Alberto,3,,,,
+14,01/03/22,,,singles,,,,,,,CTT SENTMENAT,Z,13065,MARTINEZ Luis,3,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",C,154,BOTELLA Joan,0,,,,
+14,01/03/22,,,singles,,,,,,,CTT SENTMENAT,X,14509,PARULL Xavier,0,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",A,1893,JIMENEZ Jose Antonio,3,,,,
+14,01/03/22,,,singles,,,,,,,CTT SENTMENAT,Y,7090,TERUEL Alejandro,0,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",C,154,BOTELLA Joan,3,,,,
+14,01/03/22,,,singles,,,,,,,CTT SENTMENAT,Z,13065,MARTINEZ Luis,3,,,,,,"CTT SANT QUIRZE DEL VALLÈS ""Vet. C""",B,12124,ALASTUEY Hugo Alberto,2,,,,

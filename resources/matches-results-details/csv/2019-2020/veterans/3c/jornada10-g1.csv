@@ -1,0 +1,11 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+10,10/12/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''B'',B,11160,SAS Jordi,0,,,,,,LA CASSOLA COLLBATÓ VET C,X,11152,LOPEZ Antonio Manuel,3,,,,
+10,10/12/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''B'',C,13127,CUEVAS Joan Manel,0,,,,,,LA CASSOLA COLLBATÓ VET C,Z,13103,CREMAES Domingo,3,,,,
+10,10/12/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''B'',A,8489,ESTRADA Marià,3,,,,,,LA CASSOLA COLLBATÓ VET C,X,11152,LOPEZ Antonio Manuel,1,,,,
+10,10/12/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''B'',C,13127,CUEVAS Joan Manel,0,,,,,,LA CASSOLA COLLBATÓ VET C,Y,6921,GARCIA Manuel,3,,,,
+10,10/12/19,,,singles,,,,,,,CTT ELS AMICS DE TERRASSA ''B'',B,11160,SAS Jordi,0,,,,,,LA CASSOLA COLLBATÓ VET C,Z,13103,CREMAES Domingo,3,,,,
+10,10/12/19,,,singles,,,,,,,CTT ATC MOLINS DE REI,X,80,MARTÍNEZ José,2,,,,,,SCR EL CIERVO,B,12801,CAMPS Jordi,3,,,,
+10,10/12/19,,,singles,,,,,,,CTT ATC MOLINS DE REI,Z,3151,ARELLANO Juan Francisco,3,,,,,,SCR EL CIERVO,C,8390,LLOBET Oriol,0,,,,
+10,10/12/19,,,singles,,,,,,,CTT ATC MOLINS DE REI,X,80,MARTÍNEZ José,3,,,,,,SCR EL CIERVO,A,11220,BOSCH Joan,1,,,,
+10,10/12/19,,,singles,,,,,,,CTT ATC MOLINS DE REI,Y,470,DURAN Ignasi,3,,,,,,SCR EL CIERVO,C,8390,LLOBET Oriol,0,,,,
+10,10/12/19,,,singles,,,,,,,CTT ATC MOLINS DE REI,Z,3151,ARELLANO Juan Francisco,3,,,,,,SCR EL CIERVO,B,12801,CAMPS Jordi,1,,,,

@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+9,25/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Y,8197,OLIVARES Josep,1,,,,,,CTT L'HOSPITALET GRUPO PREVING,A,12792,QUINTERO Bethany Lyn,3,,,,
+9,25/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,X,11371,VILA Biel,2,,,,,,CTT L'HOSPITALET GRUPO PREVING,B,13503,MOTA Alex,3,,,,
+9,25/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Z,11510,ROMAN Miguel,2,,,,,,CTT L'HOSPITALET GRUPO PREVING,C,12483,DOMINGUEZ Pablo,3,,,,
+9,25/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,X,11371,VILA Biel,3,,,,,,CTT L'HOSPITALET GRUPO PREVING,A,12792,QUINTERO Bethany Lyn,1,,,,
+9,25/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Y,8197,OLIVARES Josep,0,,,,,,CTT L'HOSPITALET GRUPO PREVING,C,12483,DOMINGUEZ Pablo,3,,,,
+9,25/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Z,11510,ROMAN Miguel,2,,,,,,CTT L'HOSPITALET GRUPO PREVING,B,13503,MOTA Alex,3,,,,
+9,25/04/21,,,singles,,,,,,,CTT SANT QUIRZE DEL VALLÈS,Y,6299,VILLENA Javier,0,,,,,,CTT CASTELLGALÍ,A,693,MATEO Daniel,3,,,,
+9,25/04/21,,,singles,,,,,,,CTT SANT QUIRZE DEL VALLÈS,X,11456,CARRERAS Roger,3,,,,,,CTT CASTELLGALÍ,B,14590,MARQUES Anna,0,,,,
+9,25/04/21,,,singles,,,,,,,CTT SANT QUIRZE DEL VALLÈS,Z,6738,VILLENA Adria,1,,,,,,CTT CASTELLGALÍ,C,14015,SOLA Roger,3,,,,
+9,25/04/21,,,singles,,,,,,,CTT SANT QUIRZE DEL VALLÈS,X,11456,CARRERAS Roger,3,,,,,,CTT CASTELLGALÍ,A,693,MATEO Daniel,1,,,,
+9,25/04/21,,,singles,,,,,,,CTT SANT QUIRZE DEL VALLÈS,Y,6299,VILLENA Javier,3,,,,,,CTT CASTELLGALÍ,C,14015,SOLA Roger,0,,,,
+9,25/04/21,,,singles,,,,,,,CTT SANT QUIRZE DEL VALLÈS,Z,6738,VILLENA Adria,2,,,,,,CTT CASTELLGALÍ,B,14590,MARQUES Anna,3,,,,

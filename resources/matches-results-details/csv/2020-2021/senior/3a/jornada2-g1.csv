@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+2,21/03/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,Y,12824,FERRÉ Marcel,1,,,,,,FALCONS DE SABADELL A.E.,A,13455,COSTA Roc,3,,,,
+2,21/03/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,X,1080,ALCAÑIZ Bernat,3,,,,,,FALCONS DE SABADELL A.E.,B,8197,OLIVARES Josep,1,,,,
+2,21/03/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,Z,11361,COSTA Joao Miguel,2,,,,,,FALCONS DE SABADELL A.E.,C,11371,VILA Biel,3,,,,
+2,21/03/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,X,1080,ALCAÑIZ Bernat,0,,,,,,FALCONS DE SABADELL A.E.,A,13455,COSTA Roc,3,,,,
+2,21/03/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,Y,12824,FERRÉ Marcel,1,,,,,,FALCONS DE SABADELL A.E.,C,11371,VILA Biel,3,,,,
+2,21/03/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,Z,11361,COSTA Joao Miguel,3,,,,,,FALCONS DE SABADELL A.E.,B,8197,OLIVARES Josep,0,,,,
+2,21/03/21,,,singles,,,,,,,CTT CASTELLGALÍ,A,1720,MATEO David,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,Y,6299,VILLENA Javier,0,,,,
+2,21/03/21,,,singles,,,,,,,CTT CASTELLGALÍ,B,13152,COBELA Antonio,0,,,,,,CTT SANT QUIRZE DEL VALLÈS,X,1770,MILLERA Carlos,3,,,,
+2,21/03/21,,,singles,,,,,,,CTT CASTELLGALÍ,C,693,MATEO Daniel,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,Z,12904,JIMENEZ Marti,0,,,,
+2,21/03/21,,,singles,,,,,,,CTT CASTELLGALÍ,A,1720,MATEO David,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,X,1770,MILLERA Carlos,2,,,,
+2,21/03/21,,,singles,,,,,,,CTT CASTELLGALÍ,C,693,MATEO Daniel,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,Y,6299,VILLENA Javier,0,,,,
+2,21/03/21,,,singles,,,,,,,CTT CASTELLGALÍ,B,13152,COBELA Antonio,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,Z,12904,JIMENEZ Marti,2,,,,

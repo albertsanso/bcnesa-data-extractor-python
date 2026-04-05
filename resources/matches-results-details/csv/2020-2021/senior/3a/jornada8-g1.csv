@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+8,18/04/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,Y,12483,DOMINGUEZ Pablo,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,A,1893,JIMENEZ Jose Antonio,0,,,,
+8,18/04/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,X,10975,MUNIESA Victor,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,B,12904,JIMENEZ Marti,0,,,,
+8,18/04/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,Z,13503,MOTA Alex,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,C,1770,MILLERA Carlos,1,,,,
+8,18/04/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,X,10975,MUNIESA Victor,1,,,,,,CTT SANT QUIRZE DEL VALLÈS,A,1893,JIMENEZ Jose Antonio,3,,,,
+8,18/04/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,Y,12483,DOMINGUEZ Pablo,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,C,1770,MILLERA Carlos,0,,,,
+8,18/04/21,,,singles,,,,,,,CTT L'HOSPITALET GRUPO PREVING,Z,13503,MOTA Alex,3,,,,,,CTT SANT QUIRZE DEL VALLÈS,B,12904,JIMENEZ Marti,0,,,,
+8,18/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Y,8197,OLIVARES Josep,2,,,,,,CTT CASTELLGALÍ,A,11157,SANS Montse,3,,,,
+8,18/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,X,12890,PRUNES Alfred,3,,,,,,CTT CASTELLGALÍ,B,1720,MATEO David,2,,,,
+8,18/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Z,11510,ROMAN Miguel,3,,,,,,CTT CASTELLGALÍ,C,693,MATEO Daniel,0,,,,
+8,18/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,X,12890,PRUNES Alfred,0,,,,,,CTT CASTELLGALÍ,A,11157,SANS Montse,3,,,,
+8,18/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Y,8197,OLIVARES Josep,3,,,,,,CTT CASTELLGALÍ,C,693,MATEO Daniel,2,,,,
+8,18/04/21,,,singles,,,,,,,FALCONS DE SABADELL A.E.,Z,11510,ROMAN Miguel,3,,,,,,CTT CASTELLGALÍ,B,1720,MATEO David,1,,,,

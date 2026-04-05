@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+11,01/02/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,A,15072,FERREIRO Ricardo,3,,,,,,CTT RIPOLLET,Y,8668,BARCELO Manuel,0,,,,
+11,01/02/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,B,8245,MESTRES Enric,1,,,,,,CTT RIPOLLET,X,7662,RICO Calixto,3,,,,
+11,01/02/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,C,10101,LLADÓ Albert,3,,,,,,CTT RIPOLLET,Z,11060,GUTIÉRREZ Santos Javier,2,,,,
+11,01/02/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,A,15072,FERREIRO Ricardo,3,,,,,,CTT RIPOLLET,X,7662,RICO Calixto,0,,,,
+11,01/02/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,C,10101,LLADÓ Albert,2,,,,,,CTT RIPOLLET,Y,8668,BARCELO Manuel,3,,,,
+11,01/02/22,,,singles,,,,,,,PauFolchFisio - LLUÏSOS DE GRÀCIA,B,8245,MESTRES Enric,3,,,,,,CTT RIPOLLET,Z,11060,GUTIÉRREZ Santos Javier,1,,,,
+11,01/02/22,,,singles,,,,,,,TITUS BADALONA,Y,12974,FORMENTÍ Marc,3,,,,,,CTT ELS AMICS DE TERRASSA ''A'',A,10035,PAGÈS Xavier,2,,,,
+11,01/02/22,,,singles,,,,,,,TITUS BADALONA,X,219,FIGUERAS Antoni,2,,,,,,CTT ELS AMICS DE TERRASSA ''A'',B,851,SERRES Jordi,3,,,,
+11,01/02/22,,,singles,,,,,,,TITUS BADALONA,Z,149,NOLIS Josep Mª,3,,,,,,CTT ELS AMICS DE TERRASSA ''A'',C,4405,CAROL Santiago,0,,,,
+11,01/02/22,,,singles,,,,,,,TITUS BADALONA,X,219,FIGUERAS Antoni,0,,,,,,CTT ELS AMICS DE TERRASSA ''A'',A,10035,PAGÈS Xavier,3,,,,
+11,01/02/22,,,singles,,,,,,,TITUS BADALONA,Y,12974,FORMENTÍ Marc,2,,,,,,CTT ELS AMICS DE TERRASSA ''A'',C,4405,CAROL Santiago,3,,,,
+11,01/02/22,,,singles,,,,,,,TITUS BADALONA,Z,149,NOLIS Josep Mª,1,,,,,,CTT ELS AMICS DE TERRASSA ''A'',B,851,SERRES Jordi,3,,,,

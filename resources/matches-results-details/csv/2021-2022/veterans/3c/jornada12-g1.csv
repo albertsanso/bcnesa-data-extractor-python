@@ -1,0 +1,13 @@
+jornada,match_date,venue,referee,game_type,set1,set2,set3,set4,set5,home_team_id,home_team,home_position,home_player_lic,home_player_name,game_result_home,home_player2_lic,home_player2_name,match_score_home,running_score_home,away_team_id,away_team,away_position,away_player_lic,away_player_name,game_result_away,away_player2_lic,away_player2_name,match_score_away,running_score_away
+12,08/02/22,,,singles,,,,,,,CTT SENTMENAT,Y,14509,PARULL Xavier,0,,,,,,CTT CASTELLDEFELS,A,6822,GUILLEN Jorge Benito,3,,,,
+12,08/02/22,,,singles,,,,,,,CTT SENTMENAT,X,7090,TERUEL Alejandro,3,,,,,,CTT CASTELLDEFELS,B,13123,ROSELLÓ Lluís,2,,,,
+12,08/02/22,,,singles,,,,,,,CTT SENTMENAT,Z,13065,MARTINEZ Luis,1,,,,,,CTT CASTELLDEFELS,C,12501,JULVE Luis,3,,,,
+12,08/02/22,,,singles,,,,,,,CTT SENTMENAT,X,7090,TERUEL Alejandro,0,,,,,,CTT CASTELLDEFELS,A,6822,GUILLEN Jorge Benito,3,,,,
+12,08/02/22,,,singles,,,,,,,CTT SENTMENAT,Y,14509,PARULL Xavier,0,,,,,,CTT CASTELLDEFELS,C,12501,JULVE Luis,3,,,,
+12,08/02/22,,,singles,,,,,,,CTT SENTMENAT,Z,13065,MARTINEZ Luis,2,,,,,,CTT CASTELLDEFELS,B,13123,ROSELLÓ Lluís,3,,,,
+12,08/02/22,,,singles,,,,,,,MOLLET 2002 TT,A,11484,BLANCH Francisco Javier,1,,,,,,AGRUPACIÓ CONGRÉS,Y,13081,GOMEZ David,3,,,,
+12,08/02/22,,,singles,,,,,,,MOLLET 2002 TT,B,6961,MUÑOZ Jose,3,,,,,,AGRUPACIÓ CONGRÉS,X,116,PUYUELO Amadeo,0,,,,
+12,08/02/22,,,singles,,,,,,,MOLLET 2002 TT,C,14670,SÁNCHEZ Jordi,3,,,,,,AGRUPACIÓ CONGRÉS,Z,13098,CARDONA Eduard,1,,,,
+12,08/02/22,,,singles,,,,,,,MOLLET 2002 TT,A,11484,BLANCH Francisco Javier,3,,,,,,AGRUPACIÓ CONGRÉS,X,116,PUYUELO Amadeo,0,,,,
+12,08/02/22,,,singles,,,,,,,MOLLET 2002 TT,C,14670,SÁNCHEZ Jordi,1,,,,,,AGRUPACIÓ CONGRÉS,Y,13081,GOMEZ David,3,,,,
+12,08/02/22,,,singles,,,,,,,MOLLET 2002 TT,B,6961,MUÑOZ Jose,2,,,,,,AGRUPACIÓ CONGRÉS,Z,13098,CARDONA Eduard,3,,,,
