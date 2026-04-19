@@ -346,12 +346,13 @@ def clean_whitespace(s):
     return " ".join(s.split())
 
 def main():
+    generate_csv_for_season(bcnesacommons.Season.T_2025_2026)
     #generate_csv_for_season(bcnesacommons.Season.T_2024_2025)
     #generate_csv_for_season(bcnesacommons.Season.T_2023_2024)
     #generate_csv_for_season(bcnesacommons.Season.T_2022_2023)
     #generate_csv_for_season(bcnesacommons.Season.T_2021_2022)
     #generate_csv_for_season(bcnesacommons.Season.T_2020_2021)
-    generate_csv_for_season(bcnesacommons.Season.T_2019_2020)
+    #generate_csv_for_season(bcnesacommons.Season.T_2019_2020)
     #generate_csv_for_season(bcnesacommons.Season.T_2018_2019)
 
 if __name__ == "__main__":

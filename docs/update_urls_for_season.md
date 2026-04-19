@@ -1,0 +1,1 @@
+Analize /common/resourceurlsdb.py and update the urls for the season 2025-2026.

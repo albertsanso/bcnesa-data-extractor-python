@@ -40,6 +40,7 @@ CATEGORY_MAPPING = {
     "QUARTA_G3": { "folder": "senior/4", "group": "3"},
     "QUARTA_G4": { "folder": "senior/4", "group": "4"},
     "QUARTA_G5": { "folder": "senior/4", "group": "5"},
+    "QUARTA_G6": { "folder": "senior/4", "group": "6"},
     "VET_1_G1": { "folder": "veterans/1", "group": "1"},
     "VET_1_G2": { "folder": "veterans/1", "group": "2"},
     "VET_1_G3": { "folder": "veterans/1", "group": "3"},
@@ -127,7 +128,8 @@ def get_all_pdfs_urls(the_years_list=None):
     soup = navigate_to_main_page()
     original_results_urls_years = extract_actes_urls_and_years(soup)
 
-    results_urls_years = exclude_years_list(original_results_urls_years, ["2025-2026"])
+    #results_urls_years = exclude_years_list(original_results_urls_years, ["2025-2026"])
+    results_urls_years = original_results_urls_years
 
     if the_years_list is not None:
         results_urls_years = filter_by_years_list(results_urls_years, the_years_list)
@@ -199,11 +201,12 @@ def download_for_pdf_url(pdf_url, season):
 
 if __name__ == "__main__":
     pass
+    download_for_season(bcnesacommons.Season.T_2025_2026)
     #download_for_season(bcnesacommons.Season.T_2024_2025)
     #download_for_season(bcnesacommons.Season.T_2023_2024)
     #download_for_season(bcnesacommons.Season.T_2022_2023)
     #download_for_season(bcnesacommons.Season.T_2021_2022)
     #download_for_season(bcnesacommons.Season.T_2020_2021)
-    download_for_season(bcnesacommons.Season.T_2019_2020)
+    #download_for_season(bcnesacommons.Season.T_2019_2020)
     #download_for_season(bcnesacommons.Season.T_2018_2019)
 

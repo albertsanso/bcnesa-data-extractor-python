@@ -28,6 +28,87 @@ PLAYEDMATCHESURLS = {
 }
 
 RESULTSURLS = {
+    bcnesacommons.Season.T_2025_2026: {
+        "base_url": "https://www.rtbtt.com/lligues2526",
+        bcnesacommons.Competition.T_PREFERENT: {
+            "match_days": 22,
+            "categories": {
+                "1": [
+                    {"group": "1", "file": "PREF_G1.pdf"},
+                    {"group": "2", "file": "PREF_G2.pdf"}
+                ]
+            }
+        },
+        bcnesacommons.Competition.T_SENIOR: {
+            "match_days": 22,
+            "categories": {
+                "1": [
+                    {"group": "1", "file": "PRIM_G1.pdf"},
+                    {"group": "2", "file": "PRIM_G2.pdf"}
+                ],
+                "2a": [
+                    {"group": "1", "file": "SEG_A_G1.pdf"},
+                    {"group": "2", "file": "SEG_A_G2.pdf"}
+                ],
+                "2b": [
+                    {"group": "1", "file": "SEG_B_G1.pdf"},
+                    {"group": "2", "file": "SEG_B_G2.pdf"}
+                ],
+                "3a": [
+                    {"group": "1", "file": "TER_A_G1.pdf"},
+                    {"group": "2", "file": "TER_A_G2.pdf"}
+                ],
+                "3b": [
+                    {"group": "1", "file": "TER_B_G1.pdf"},
+                    {"group": "2", "file": "TER_B_G2.pdf"}
+                ],
+                "4": [
+                    {"group": "1", "file": "QUA_G1.pdf"},
+                    {"group": "2", "file": "QUA_G2.pdf"},
+                    {"group": "3", "file": "QUA_G3.pdf"},
+                    {"group": "4", "file": "QUA_G4.pdf"},
+                    {"group": "5", "file": "QUA_G5.pdf"},
+                    {"group": "6", "file": "QUA_G6.pdf"}
+                ]
+            }
+        },
+        bcnesacommons.Competition.T_VETERAN: {
+            "match_days": 14,
+            "categories": {
+                "1": [
+                    {"group": "1", "file": "VET1_G1.pdf"},
+                    {"group": "2", "file": "VET1_G2.pdf"}
+                ],
+                "2a": [
+                    {"group": "1", "file": "VET2_A_G1.pdf"},
+                    {"group": "2", "file": "VET2_A_G2.pdf"}
+                ],
+                "2b": [
+                    {"group": "1", "file": "VET2_B_G1.pdf"},
+                    {"group": "2", "file": "VET2_B_G2.pdf"}
+                ],
+                "3a": [
+                    {"group": "1", "file": "VET3A_G1.pdf"},
+                    {"group": "2", "file": "VET3A_G2.pdf"}
+                ],
+                "3b": [
+                    {"group": "1", "file": "VET3B_G1.pdf"},
+                    {"group": "2", "file": "VET3B_G2.pdf"},
+                    {"group": "3", "file": "VET3B_G3.pdf"}
+                ],
+                "4a": [
+                    {"group": "1", "file": "VET4A_G1.pdf"},
+                    {"group": "2", "file": "VET4A_G2.pdf"}
+                ],
+                "4b": [
+                    {"group": "1", "file": "VET4B_G1.pdf"},
+                    {"group": "2", "file": "VET4B_G2.pdf"},
+                    {"group": "3", "file": "VET4B_G3.pdf"},
+                    {"group": "4", "file": "VET4B_G4.pdf"}
+                ]
+            }
+        }
+    },
     bcnesacommons.Season.T_2024_2025: {
         "base_url": "https://www.rtbtt.com/lligues2425",
         bcnesacommons.Competition.T_PREFERENT: {
